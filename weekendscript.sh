@@ -1,4 +1,6 @@
 #!/bin/bash
+phone1=3758800
+phone2=3758801
 mail=anon@mail.ru
 dt=$(date -d "yesterday" +"%d/%m/%Y")
 mkdir /home/adminotel/magiccalls/3758800
